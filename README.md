@@ -62,7 +62,7 @@ This project analyzes **103,700+ Uber trip records** along with a supporting Loc
 
 ---
 
-## 🗂 Dashboard Pages
+##  Dashboard Pages
 
 ###  1. Overview Analysis
 
@@ -187,4 +187,4 @@ This dashboard enables business teams to:
 Aspiring Data Analyst
 
 - **LinkedIn:** *( www.linkedin.com/in/mohanthurpati )*
-- **GitHub:** *(Add your GitHub profile link here)*
+- **GitHub:** *( https://github.com/MohanThurpati )*
